@@ -8,3 +8,4 @@ Antes de iniciar es necesario crear una maquetacion o diagrama para poder compre
   * Enviar alertas de emergencia o de aviso.
 3. los procesos tienen una estructura basada en macro procesos; sin embargo, esta aplicacion se enfoca en el proceso de produccion.
 4. Las actualizaxiones de fin de cada proceso o avance o lectura es alertado a los siguientes procesos implicados.
+5. Crear los diagramas en UML y definir tambien el diseño de la base de datos.
